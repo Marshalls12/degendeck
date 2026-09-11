@@ -1,0 +1,6 @@
+position_id,ticker,shares,cost_basis,opened,position_status,exit_price,closed_date,exit_reason,sold,expiry,contracts,strike,credit,buyback,fees,stock_at_sale,stock_at_expiry,outcome
+SOUN-1,SOUN,500,6.17,2026-03-02,open,,,,2026-03-02,2026-03-06,5,6.50,52.50,0,3.25,6.20,6.05,expired
+SOUN-1,SOUN,500,6.17,2026-03-02,open,,,,2026-03-09,2026-03-13,5,6.50,48.00,0,3.25,6.10,6.30,expired
+PLTR-1,PLTR,100,24.80,2026-04-14,closed,27.00,2026-05-08,assigned,2026-04-14,2026-04-24,1,27.00,61.00,0,0.65,24.90,26.10,expired
+PLTR-1,PLTR,100,24.80,2026-04-14,closed,27.00,2026-05-08,assigned,2026-04-27,2026-05-08,1,27.00,74.00,0,0.65,25.60,27.40,assigned
+AAPL-1,AAPL,100,182.50,2026-06-01,open,,,,,,,,,,,,,
